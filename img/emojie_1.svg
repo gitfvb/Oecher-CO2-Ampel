@@ -1,0 +1,55 @@
+<svg width="300" height="300">
+<circle
+         r="66.901787"
+         cy="-12.780882"
+         cx="87.3125"
+         id="path4518"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.06499982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(141.3631,-112.48568)"
+         id="g4544">
+        <circle
+           style="opacity:1;fill:#fffff8;fill-opacity:1;stroke:#000000;stroke-width:2.06499982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4520"
+           cx="-81.264885"
+           cy="95.538681"
+           r="18.520834" />
+        <circle
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06499982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4522"
+           cx="-78.619049"
+           cy="98.940475"
+           r="7.5595236" />
+      </g>
+      <g
+         transform="translate(141.3631,-113.61961)"
+         id="g4548">
+        <circle
+           style="opacity:1;fill:#fffff8;fill-opacity:1;stroke:#000000;stroke-width:2.06499982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4520-6"
+           cx="-27.970238"
+           cy="96.672615"
+           r="18.520834" />
+        <circle
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06499982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4522-4"
+           cx="-25.324402"
+           cy="100.07441"
+           r="7.5595236" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4673"
+         d="M 66.901784,29.014879 H 109.6131"
+         style="fill:none;stroke:#000000;stroke-width:5.76499987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4673-5"
+         d="M 43.059557,-42.0574 H 74.809559"
+         style="fill:none;stroke:#000000;stroke-width:2.38394141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4673-5-4"
+         d="M 96.761904,-42.0574 H 128.51191"
+         style="fill:none;stroke:#000000;stroke-width:2.38394141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>    
