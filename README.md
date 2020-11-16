@@ -47,6 +47,15 @@ Nur notwendig, wenn man Teile ohne direkte I2C-Schnittstellen hat
 
 * Anhauchen
 
+## LED
+
+## Sensoren
+
 # Betrieb
 
 * Kalibrierung
+* Aufstellort
+
+# Auswertung
+
+https://dataflo.de/rawgraphs/
