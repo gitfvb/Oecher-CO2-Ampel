@@ -1,6 +1,9 @@
 # Oecher-CO2-Ampel
  Beschreibung für die CO2 Ampel
 
+![grafik](https://user-images.githubusercontent.com/14135678/102716182-79480980-42da-11eb-914e-a16072e877c7.png)
+
+
 # Quickstart Guide
 
 * Sensor SCD30
